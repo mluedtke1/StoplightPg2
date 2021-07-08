@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoplightPg2", "StoplightPg2\StoplightPg2.csproj", "{730C0CD0-104A-4A62-909B-C2E9F0AE1055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{730C0CD0-104A-4A62-909B-C2E9F0AE1055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730C0CD0-104A-4A62-909B-C2E9F0AE1055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730C0CD0-104A-4A62-909B-C2E9F0AE1055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730C0CD0-104A-4A62-909B-C2E9F0AE1055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5A64DF7-CBD4-4799-AF3B-BA76779DFD44}
+	EndGlobalSection
+EndGlobal
